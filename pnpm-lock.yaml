@@ -14,8 +14,8 @@ devDependencies:
     specifier: ^4.1.0
     version: 4.1.0(eslint@8.56.0)
   '@hyperupcall/eslint-config':
-    specifier: ^0.10.0
-    version: 0.10.0(eslint-config-prettier@9.1.0)(eslint@8.56.0)
+    specifier: ^0.11.0
+    version: 0.11.0(eslint-config-prettier@9.1.0)(eslint@8.56.0)
   '@hyperupcall/markdownlint-config':
     specifier: ^0.3.2
     version: 0.3.2
@@ -471,8 +471,8 @@ packages:
     resolution: {integrity: sha512-dvuCeX5fC9dXgJn9t+X5atfmgQAzUOWqS1254Gh0m6i8wKd10ebXkfNKiRK+1GWi/yTvvLDHpoxLr0xxxeslWw==}
     dev: true
 
-  /@hyperupcall/eslint-config@0.10.0(eslint-config-prettier@9.1.0)(eslint@8.56.0):
-    resolution: {integrity: sha512-gUKhdSRkJ64CVTOfDPOK8giazOD82k1QoJlZ9VqPUq7AFxZrkkOeyJsH4u6bdgdR+84a5ceZ5IbPhXEccxMs8w==}
+  /@hyperupcall/eslint-config@0.11.0(eslint-config-prettier@9.1.0)(eslint@8.56.0):
+    resolution: {integrity: sha512-RA6cBHoHWtTEJMzLOUkGZ/Oc/dc6Rb7KWbQXGnDqwYKu7GyPm7+6nQo+KEOFAfaclubiiYRsQ/jhK1Rz8yUbPQ==}
     peerDependencies:
       eslint: '>=8.0.0'
       eslint-config-prettier: '>=8.0.0'
