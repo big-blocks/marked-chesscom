@@ -42,7 +42,7 @@
 	},
 	"devDependencies": {
 		"@eslint-community/eslint-plugin-eslint-comments": "^4.1.0",
-		"@hyperupcall/eslint-config": "^0.10.0",
+		"@hyperupcall/eslint-config": "^0.11.0",
 		"@hyperupcall/markdownlint-config": "^0.3.2",
 		"@hyperupcall/prettier-config": "^0.7.0",
 		"eslint": "^8.56.0",
